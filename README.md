@@ -3,15 +3,14 @@
 About Me: 
 
 - 🎓 Recent Full Stack Web Development graduate from Lambda School 
-- 🎓 
 
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ... Vue.js
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on ... Any opportunities to learn and further my education in the field. 
+- 🤔 I’m looking for help with ... Angular 
 - 💬 Ask me about ... Anything
-- 
+
 Tech Stack:
 
 - 💻 Front End: HTML5 | CSS | Sass | Javascript (ES6) | Next.js | React | Redux | Material UI | Bootstrap
@@ -24,3 +23,4 @@ Tech Stack:
 Lets Connect!
 
 - 📫 How to reach me: brandonverfurth@gmail.com
+
