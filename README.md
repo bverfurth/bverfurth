@@ -6,10 +6,10 @@ About Me:
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ... Vue.js
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ... Any opportunities to learn and further my education in the field. 
-- 🤔 I’m looking for help with ... Angular 
-- 💬 Ask me about ... Anything
+- 🤔 I’m looking for help with ... 
+- 💬 Ask me about ... Anything!
 
 Tech Stack:
 
@@ -22,5 +22,5 @@ Tech Stack:
 
 Lets Connect!
 
-- 📫 How to reach me: brandonverfurth@gmail.com
+- 📫 How to reach me: btverfurth@gmail.com
 
