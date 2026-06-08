@@ -22,5 +22,3 @@ Tech Stack:
 
 Lets Connect!
 
-- 📫 How to reach me: btverfurth@gmail.com
-
